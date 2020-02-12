@@ -1,0 +1,164 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.3)  10 FEB 2020 20:47
+entering extended mode
+**./Constrained.HV.Wilcox.tex
+(Constrained.HV.Wilcox.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(Constrained.HV.Wilcox.aux)
+\openout1 = `Constrained.HV.Wilcox.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 206--207
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 208--209
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 210--211
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 212--213
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 214--215
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 216--217
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 218--219
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 220--221
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 222--223
+[]$\U/msa/m/n/7 N$| 
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 224--228
+[]$\U/msa/m/n/7 N$
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 224--228
+\U/msa/m/n/7 N$
+ []
+
+
+Overfull \hbox (1.13506pt too wide) in paragraph at lines 224--228
+\U/msa/m/n/7 N$
+ []
+
+
+Overfull \hbox (8.74623pt too wide) in paragraph at lines 224--228
+\OT1/cmr/m/n/7 NS-
+ []
+
+
+Overfull \hbox (13.40599pt too wide) in paragraph at lines 224--228
+\OT1/cmr/m/n/7 GAI-
+ []
+
+
+Overfull \hbox (8.84344pt too wide) in paragraph at lines 224--228
+\OT1/cmr/m/n/7 ISR 
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.230   \hline
+              
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+[1
+
+{C:/Users/shaik/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+(Constrained.HV.Wilcox.aux) ) 
+Here is how much of TeX's memory you used:
+ 539 strings out of 492970
+ 6359 string characters out of 3135855
+ 66205 words of memory out of 3000000
+ 4466 multiletter control sequences out of 15000+200000
+ 10480 words of font info for 41 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,11n,27p,172b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on Constrained.HV.Wilcox.pdf (2 pages, 66556 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
